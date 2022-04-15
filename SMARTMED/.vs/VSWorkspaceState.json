@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Smartmed.WebApp.Services\\Controllers",
+    "\\smartmedAngular",
+    "\\smartmedAngular\\src",
+    "\\smartmedAngular\\src\\app",
+    "\\smartmedAngular\\src\\app\\interfaces",
+    "\\smartmedAngular\\src\\app\\Smartmed-Service",
+    "\\smartmedAngular\\src\\app\\view-patient"
+  ],
+  "SelectedNode": "\\smartmedAngular\\src\\app\\view-patient\\view-patient.component.ts",
+  "PreviewInSolutionExplorer": false
+}

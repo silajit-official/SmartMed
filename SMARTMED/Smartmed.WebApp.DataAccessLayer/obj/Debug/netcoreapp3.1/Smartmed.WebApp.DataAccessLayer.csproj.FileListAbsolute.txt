@@ -1,0 +1,12 @@
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\bin\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.deps.json
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\bin\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.runtimeconfig.json
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\bin\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.runtimeconfig.dev.json
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\bin\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.dll
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\bin\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.pdb
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.csprojAssemblyReference.cache
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.AssemblyInfoInputs.cache
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.AssemblyInfo.cs
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.dll
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.pdb
+K:\SMARTMED\SMARTMED\Smartmed.WebApp.DataAccessLayer\obj\Debug\netcoreapp3.1\Smartmed.WebApp.DataAccessLayer.genruntimeconfig.cache
